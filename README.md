@@ -1,9 +1,15 @@
 # Automation-Template
 This is the template for maven web application automation 
 
-Prerequisite
+Prerequisite:
 1. Java Development Kit (1.8 above)
-2. 
+
+Tools Used:
+Selenium
+Java
+POI
+TestNG
+ExtentReports
 
 Instructions:
 1. Place the webdrivers(ChromeDriver, geckodriver etc..) in the driverS folder in the root
