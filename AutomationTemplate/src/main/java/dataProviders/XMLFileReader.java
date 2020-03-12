@@ -1,6 +1,3 @@
-/**
- * 
- */
 package dataProviders;
 
 import java.io.File;
