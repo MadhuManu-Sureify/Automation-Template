@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Sureify.WebTestAutomationOutline.AppTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.414 s <<< FAILURE! - in Sureify.WebTestAutomationOutline.AppTest
-checkTest on checkTest(Sureify.WebTestAutomationOutline.AppTest)(Sureify.WebTestAutomationOutline.AppTest)  Time elapsed: 0.009 s  <<< FAILURE!
-java.lang.NullPointerException
-	at Sureify.WebTestAutomationOutline.AppTest.checkTest(AppTest.java:35)
-
