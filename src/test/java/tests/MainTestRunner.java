@@ -20,7 +20,7 @@ public class MainTestRunner {
   
 	
 	@Test
-  public void f() {
+  public void firsttestcase() {
 	  LandingPage l = new LandingPage();
 	  l.tm();
 	  System.out.println("Test Completed");
